@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg38432"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="crash.svg"
+   inkscape:export-filename="crash.png"
+   inkscape:export-xdpi="40.052479"
+   inkscape:export-ydpi="40.052479"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview38434"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5625561"
+     inkscape:cx="152.63452"
+     inkscape:cy="150.3946"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs38429" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#edd400;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.48167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 46.88905,42.261602 47.693354,41.290461 57.904435,21.428154 55.74925,44.65625 72.511792,36.993375 55.988714,50.882338 77.540555,66.447556 50.481023,58.545214 44.494399,73.152574 44.733866,53.276987 28.450251,53.995381 43.536541,47.290365 29.168648,30.527821 Z"
+       id="path38436"
+       sodipodi:nodetypes="cccccccccccccc" />
+    <path
+       style="fill:#ededed;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.48167;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 48.924207,46.88364 0.27771,-0.335894 3.525687,-6.86984 -0.744143,8.033978 5.533787,-0.957111 -5.451105,3.110548 6.002149,7.076865 -7.903848,-4.426481 -2.067064,5.052295 0.08268,-6.874434 -5.622414,0.248474 5.209002,-2.319086 -4.960953,-5.797717 z"
+       id="path38436-8"
+       sodipodi:nodetypes="cccccccccccccc" />
+  </g>
+</svg>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg9791"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="driveway.svg"
+   inkscape:export-filename="driveway.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview9793"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.552447"
+     inkscape:cx="168.34194"
+     inkscape:cy="705.95007"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs9788">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect26269"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="20"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#b0b4ab;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.82931;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 64.189943,56.937181 C 53.15089,66.733342 41.68737,244.55586 56.705787,250.41936 c 19.952237,7.7898 99.958993,7.42539 102.283503,-0.96258 7.00976,-25.29483 -2.55061,-181.311676 -14.65648,-192.519599 -16.80688,-15.560223 -67.387899,-11.31888 -80.142867,0 z"
+       id="path18826"
+       inkscape:path-effect="#path-effect26269"
+       inkscape:original-d="M 64.189943,56.937181 C 53.15089,66.733342 41.68737,244.55586 56.705787,250.41936 c 19.952237,7.7898 99.958993,7.42539 102.283503,-0.96258 7.00976,-25.29483 -2.55061,-181.311676 -14.65648,-192.519599 -16.80688,-15.560223 -67.387899,-11.31888 -80.142867,0 z"
+       sodipodi:nodetypes="sssss" />
+  </g>
+</svg>
