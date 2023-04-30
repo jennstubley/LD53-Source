@@ -57,6 +57,11 @@ public class Car : MonoBehaviour
             deliveryController.ThrowPizza();
         }
 
+        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.DownArrow))
+        {
+           // AudioManager.Instance.PlayZoomClip();
+        }
+
         if (crashObj.activeSelf)
         {
             crashTimeLeft -= Time.deltaTime;

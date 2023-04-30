@@ -16,6 +16,6 @@ public class ScoreUI : MonoBehaviour
 
     private void Update()
     {
-        scoreText.text = "Score: " + GameController.Instance.Score;
+        scoreText.text = GameController.Instance.Score.ToString();
     }
 }

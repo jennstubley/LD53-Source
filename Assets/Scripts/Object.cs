@@ -12,7 +12,7 @@ public class Object : MonoBehaviour
         if (car != null)
         {
             car.Crash(collision.GetContact(0), this);
-            Debug.Log("Hit something!");
+            AudioManager.Instance.PlayCrashClip();
             GameController.Instance.UpdateScore(-pointLoss);
         }
     }

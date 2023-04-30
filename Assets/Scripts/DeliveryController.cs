@@ -49,6 +49,7 @@ public class DeliveryController : MonoBehaviour
     {
         if (success)
         {
+            AudioManager.Instance.PlaySuccessClip();
             GameController.Instance.UpdateScore(deliveryScoreBoost);
             deliverySuccess.SetActive(true);
             deliverySuccess.GetComponent<AnimateScale>().Go();
@@ -56,6 +57,7 @@ public class DeliveryController : MonoBehaviour
         }
         else
         {
+            AudioManager.Instance.PlayFailureClip();
             deliveryFailure.SetActive(true);
             deliveryFailure.GetComponent<AnimateScale>().Go();
             deliverySuccess.SetActive(false);
@@ -73,6 +75,7 @@ public class DeliveryController : MonoBehaviour
     public void ThrowPizza()
     {
         if (pizzaThrown) return;
+        AudioManager.Instance.PlayThrowClip();
         pizzaThrown = true;
         GameObject pizzaBox = Instantiate(pizzaBoxPrefab);
         Car car = FindObjectOfType<Car>();

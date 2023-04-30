@@ -9,6 +9,9 @@
    id="svg115"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="highlight_2.svg"
+   inkscape:export-filename="highlight_2.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,8 +28,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.78127806"
-     inkscape:cx="192.63308"
-     inkscape:cy="561.89982"
+     inkscape:cx="375.02653"
+     inkscape:cy="174.07375"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
@@ -40,13 +43,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.11666667;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:2.315;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect171"
-       width="205.56328"
-       height="249.58836"
-       x="17.948689"
-       y="12.868871"
-       rx="1.7423296"
-       ry="1.6688981" />
+       width="205.36478"
+       height="298.88638"
+       x="18.047941"
+       y="-11.780141"
+       rx="20.018015"
+       ry="17.136877" />
   </g>
 </svg>

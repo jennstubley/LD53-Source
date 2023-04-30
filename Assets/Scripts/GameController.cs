@@ -12,6 +12,7 @@ public class GameController : MonoBehaviour
     public bool IsPaused;
 
     [SerializeField] private GameObject gameOverPanel;
+    [SerializeField] private GameObject instructionPanel;
     [SerializeField] private int ShiftLengthSeconds;
 
     void Start()
@@ -20,7 +21,7 @@ public class GameController : MonoBehaviour
         Instance = this;
         TimeLeft = ShiftLengthSeconds;
         gameOverPanel.SetActive(false);
-        IsPaused = false;
+        IsPaused = true;
 
     }
 
@@ -47,6 +48,14 @@ public class GameController : MonoBehaviour
 
     public void Restart()
     {
+        AudioManager.Instance.PlayClickClip();
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
+
+    public void Play()
+    {
+        AudioManager.Instance.PlayClickClip();
+        IsPaused = false;
+        instructionPanel.SetActive(false);
     }
 }
